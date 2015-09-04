@@ -1,4 +1,4 @@
-# Project Overview
+1# Project Overview
 In this project you are given a web-based application that reads RSS feeds. The original developer 
 
 of this application clearly saw the value in testing, they've already included Jasmine and even 
@@ -20,7 +20,7 @@ manipulation.
 http://nicoya1972.github.io/P6-Feedreader.
 
 # Resources
-Udacity Classes 
-Jasmine http://jasmine.github.io/ 
-Udacity Forums 
-Study Group function.
+1. Udacity Classes 
+2. Jasmine http://jasmine.github.io/ 
+3. Udacity Forums 
+4. Study Group function.
