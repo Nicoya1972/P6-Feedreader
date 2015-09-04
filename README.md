@@ -10,9 +10,7 @@ In this project you are given a web-based application that reads RSS feeds. The 
 I learned how to use Jasmine to write a number of tests against a pre-existing application. These will test the underlying business logic of the application as well as the event handling and DOM manipulation.
 
 # How to run the app
-Clone the repository or download/extract the zip file to your local machine
-Open index.html in your browser of choice
-View the tested specs and failures in the Jasmine section that overlays the page
+http://nicoya1972.github.io/P6-Feedreader.
 
 #Resources
 
